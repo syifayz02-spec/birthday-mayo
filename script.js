@@ -323,35 +323,35 @@ function startPhotoShow() {
     const photos = [
         {
             text: 'Golden Hour ✨',
-            image: './images/foto1.jpg'
+            image: './foto1.jpg'
         },
         {
             text: 'Soft Aesthetic 🌸',
-            image: './images/foto2.jpg'
+            image: './foto2.jpg'
         },
         {
             text: 'Stay Cute 💖',
-            image: './images/foto3.jpg'
+            image: './foto3.jpg'
         },
         {
             text: 'Simply Lovely 💕',
-            image: './images/foto4.jpg'
+            image: './foto4.jpg'
         },
         {
             text: 'Daily Dose 🍃',
-            image: './images/foto5.jpg'
+            image: './foto5.jpg'
         },
         {
             text: 'Sweet Smile 😊',
-            image: './images/foto6.jpg'
+            image: './foto6.jpg'
         },
         {
             text: 'Pure Happiness 🥰',
-            image: './images/foto7.jpg'
+            image: './foto7.jpg'
         },
         {
             text: 'Bright Day ☀️',
-            image: './images/foto8.jpg'
+            image: './foto8.jpg'
         }
     ];
     
